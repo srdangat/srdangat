@@ -31,7 +31,7 @@ I am currently focused on mastering AWS services and best practices for deployin
 
 ## 📊 GitHub Stats
 
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketdangat&show_icons=true&theme=radical)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdangat&show_icons=true&theme=radical)
 
 
 
