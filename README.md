@@ -14,7 +14,7 @@ Always learning and exploring new ways to simplify and automate cloud operations
 
 ## What I'm Currently Working On
 
-- 90 Days of DevOps challenge
+**[90 Days of DevOps challenge](https://github.com/srdangat/90DaysOfDevOps/tree/master/2026)**
 
 ---
 
