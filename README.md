@@ -32,10 +32,4 @@ Always learning and exploring new ways to simplify and automate cloud operations
 - [LinkedIn](https://www.linkedin.com/in/sanket-dangat-6462b8271/)  
 - [Email](mailto:sanket.r.dangat@gmail.com)
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srdangat&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
 ---
