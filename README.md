@@ -23,7 +23,7 @@ Always learning and exploring new ways to simplify and automate cloud operations
 - **Cloud Platform:** AWS
 - **Containers & Orchestration:** Docker,Kubernetes  
 - **Infrastructure as Code:** Terraform  
-- **CI/CD Pipelines:** Jenkins 
+- **CI/CD Pipelines:** Jenkins, GitHub Actions
 - **Version Control:** Git & GitHub  
 
 ---
