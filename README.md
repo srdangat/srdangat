@@ -2,6 +2,8 @@
 <h3 align="center"> Cloud & DevOps Engineer </h3>
 <p align="center"><i>From Desktop Support to DevOps — Building scalable and automated cloud solutions.</i></p>
 
+![Docker CI/CD](https://github.com/srdangat/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg)
+
 ---
 
 ## About Me
