@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Cloud & DevOps Engineer with **3+ years of IT experience**, including **1.5 years of hands-on experience** in Cloud and DevOps technologies. Skilled in AWS, Terraform, Jenkins, Docker, Kubernetes, Linux, monitoring, and cloud operations.
+Cloud & DevOps Engineer with **3.5+ years of overall IT experience**, including **1.5 years of hands-on experience** in Cloud and DevOps technologies. Skilled in AWS, Terraform, Jenkins, Docker, Kubernetes, Linux, monitoring, and cloud operations.
 
 **Open to opportunities** in DevOps Engineering, Cloud Engineering, and Cloud Support roles.
 
