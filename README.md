@@ -117,7 +117,7 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=srdangat&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=srdangat&theme=dark)](https://git.io/streak-stats)
 
 ---
 
