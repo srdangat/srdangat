@@ -124,6 +124,7 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 ## 📚 Currently Learning
 
 - Python for DevOps Automation
+- Agentic AI Fundamentals
 
 ---
 
