@@ -21,6 +21,13 @@ Cloud & DevOps Engineer with **3.5+ years of overall IT experience**, including 
 
 ## 🏆 Achievements & Recognition
 
+### Community Lead — TrainWithShubham (TWS)
+
+- Support the community by answering Cloud, AWS, Linux, Docker, Kubernetes, Git, and DevOps-related questions.
+- Help learners troubleshoot technical issues and share learning resources.
+
+---
+
 ### Automation Hero — TrainWithShubham Community
 
 <p align="left">
@@ -34,7 +41,6 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 #### Additional Community Recognition
 - 🏅 Community Builder of the Week — March 2026
 - 🏅 Community Builder of the Week — February 2026
-
 ---
 
 ## Featured Projects
