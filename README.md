@@ -121,9 +121,14 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 
 ---
 
-## 📈 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=srdangat&theme=dark)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srdangat&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://show-pr.vercel.app/api/badge/srdangat?v=1" width="48%" />
+</p>
+
 
 ---
 
