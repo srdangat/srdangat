@@ -121,17 +121,9 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 
 ---
 
-
 ## 📈 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=srdangat&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 📚 Currently Learning
-
-- Python for DevOps Automation
-- Agentic AI Fundamentals
 
 ---
 
