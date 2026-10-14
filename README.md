@@ -1,3 +1,4 @@
+
 <h1 align="center">Sanket Dangat</h1>
 <h3 align="center">Cloud & DevOps Engineer</h3>
 
@@ -39,8 +40,33 @@ Cloud & DevOps Engineer with **3.5+ years of overall IT experience**, including 
 Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for community contributions, knowledge sharing, and helping learners in Cloud, DevOps, and Automation.
 
 #### Additional Community Recognition
+
 - 🏅 Community Builder of the Week — March 2026
 - 🏅 Community Builder of the Week — February 2026
+
+---
+
+## 🌍 Open Source Contributions
+
+Contributing hands-on learning labs to [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs), an open-source platform focused on practical Cloud and DevOps learning.
+
+### ✅ Merged Pull Requests
+
+| Contribution | Pull Request | Status |
+|---|---|---|
+| Kubernetes Services — Exposing Pods with Services | [#42](https://github.com/TrainWithShubham/tws-labs/pull/42) | ✅ Merged |
+| Linux Fundamentals — AWK & SED Text Processing | [#32](https://github.com/TrainWithShubham/tws-labs/pull/32) | ✅ Merged |
+| Git Basics — `.gitignore` Lab | [#27](https://github.com/TrainWithShubham/tws-labs/pull/27) | ✅ Merged |
+
+### Contribution Highlights
+
+- Developed interactive, hands-on labs covering **Kubernetes, Linux, and Git fundamentals**.
+- Created practical exercises to help learners strengthen real-world DevOps skills.
+- Implemented task-based validation and verification workflows.
+- Contributed improvements through GitHub pull requests and maintainer collaboration.
+
+**Project:** [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs)
+
 ---
 
 ## Featured Projects
@@ -85,7 +111,7 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 | **Cloud Consultant (Internship)** | SELA | Apr 2025 – Oct 2025 |
 | **DevOps Engineer (Internship)** | Hisan Labs Pvt Ltd | Apr 2024 – Apr 2025 |
 | **Jr. IT Executive** | ITC Infotech | Apr 2023 – Feb 2024 |
-| **Desktop Support Engineer** |  Innovative Digitech Services | Mar 2022 – Apr 2023 |
+| **Desktop Support Engineer** | Innovative Digitech Services | Mar 2022 – Apr 2023 |
 
 ---
 
@@ -131,6 +157,6 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 
 - [LinkedIn](https://www.linkedin.com/in/sanket-dangat-6462b8271/)
 - [GitHub](https://github.com/srdangat)
-- [Email](sanket.r.dangat@gmail.com)
+- [Email](mailto:sanket.r.dangat@gmail.com)
 
 ---
