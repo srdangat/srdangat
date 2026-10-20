@@ -54,18 +54,18 @@ Contributing hands-on learning labs to [TrainWithShubham/tws-labs](https://githu
 
 | Contribution | Pull Request | Status |
 |---|---|---|
+| GitHub Actions — Reusable Workflows Lab | [#70](https://github.com/TrainWithShubham/tws-labs/pull/70) | ✅ Merged |
+| Git Basics — Git Stash Lab | [#69](https://github.com/TrainWithShubham/tws-labs/pull/69) | ✅ Merged |
 | Kubernetes Services — Exposing Pods with Services | [#42](https://github.com/TrainWithShubham/tws-labs/pull/42) | ✅ Merged |
 | Linux Fundamentals — AWK & SED Text Processing | [#32](https://github.com/TrainWithShubham/tws-labs/pull/32) | ✅ Merged |
 | Git Basics — `.gitignore` Lab | [#27](https://github.com/TrainWithShubham/tws-labs/pull/27) | ✅ Merged |
 
 ### Contribution Highlights
 
-- Developed interactive, hands-on labs covering **Kubernetes, Linux, and Git fundamentals**.
-- Created practical exercises to help learners strengthen real-world DevOps skills.
-- Implemented task-based validation and verification workflows.
-- Contributed improvements through GitHub pull requests and maintainer collaboration.
-
-**Project:** [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs)
+- Developed interactive, hands-on labs covering **Kubernetes, Linux, Git, and GitHub Actions**.
+- Created practical exercises to help learners strengthen real-world **Cloud and DevOps skills**.
+- Implemented task-based validation checks and verification workflows to ensure learning objectives are met.
+- Contributed improvements through GitHub pull requests and collaboration with project maintainers.
 
 ---
 
