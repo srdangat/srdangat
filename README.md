@@ -48,24 +48,31 @@ Recognized as an **Automation Hero** on the TrainWithShubham Heroes Wall for com
 
 ## 🌍 Open Source Contributions
 
-Contributing hands-on learning labs to [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs), an open-source platform focused on practical Cloud and DevOps learning.
+Actively contributing to [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs), an open-source repository dedicated to hands-on learning in **Cloud Computing, DevOps, and Infrastructure Engineering**.
 
-### ✅ Merged Pull Requests
+Developing practical, structured labs that help learners build technical skills through real-world scenarios, guided exercises, and validation workflows.
+
+### Merged Pull Requests
 
 | Contribution | Pull Request | Status |
 |---|---|---|
-| GitHub Actions — Reusable Workflows Lab | [#70](https://github.com/TrainWithShubham/tws-labs/pull/70) | ✅ Merged |
-| Git Basics — Git Stash Lab | [#69](https://github.com/TrainWithShubham/tws-labs/pull/69) | ✅ Merged |
-| Kubernetes Services — Exposing Pods with Services | [#42](https://github.com/TrainWithShubham/tws-labs/pull/42) | ✅ Merged |
-| Linux Fundamentals — AWK & SED Text Processing | [#32](https://github.com/TrainWithShubham/tws-labs/pull/32) | ✅ Merged |
-| Git Basics — `.gitignore` Lab | [#27](https://github.com/TrainWithShubham/tws-labs/pull/27) | ✅ Merged |
+| Kubernetes — Persistent Storage (PV & PVC) | [#82](https://github.com/TrainWithShubham/tws-labs/pull/82) | ✅ Merged |
+| GitHub Actions — Reusable Workflows | [#70](https://github.com/TrainWithShubham/tws-labs/pull/70) | ✅ Merged |
+| Git — Stash Operations | [#69](https://github.com/TrainWithShubham/tws-labs/pull/69) | ✅ Merged |
+| Kubernetes — Services & Pod Networking | [#42](https://github.com/TrainWithShubham/tws-labs/pull/42) | ✅ Merged |
+| Linux — AWK & SED Text Processing | [#32](https://github.com/TrainWithShubham/tws-labs/pull/32) | ✅ Merged |
+| Git — `.gitignore` Fundamentals | [#27](https://github.com/TrainWithShubham/tws-labs/pull/27) | ✅ Merged |
 
-### Contribution Highlights
+### Technical Contributions
 
-- Developed interactive, hands-on labs covering **Kubernetes, Linux, Git, and GitHub Actions**.
-- Created practical exercises to help learners strengthen real-world **Cloud and DevOps skills**.
-- Implemented task-based validation checks and verification workflows to ensure learning objectives are met.
-- Contributed improvements through GitHub pull requests and collaboration with project maintainers.
+- **Kubernetes:** Developed hands-on labs covering Services, PersistentVolumes (PV), PersistentVolumeClaims (PVC), and storage configuration.
+- **CI/CD & GitHub Actions:** Created exercises demonstrating reusable workflows and workflow automation.
+- **Linux & Shell:** Built practical text-processing exercises using `awk` and `sed`.
+- **Git & Version Control:** Developed labs covering stash operations and `.gitignore` best practices.
+- **Validation & Documentation:** Incorporated verification steps, task-based exercises, and structured documentation to support reproducible learning.
+- **Open-Source Collaboration:** Contributed through pull requests, code reviews, and feedback from repository maintainers.
+
+**Impact:** 6 merged pull requests across Kubernetes, CI/CD, Linux, and Git, supporting practical DevOps education through community-driven open-source contributions.
 
 ---
 
