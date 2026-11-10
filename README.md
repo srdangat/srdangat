@@ -54,8 +54,10 @@ Developing practical, structured labs that help learners build technical skills 
 
 ### Merged Pull Requests
 
+
 | Contribution | Pull Request | Status |
 |---|---|---|
+| Kubernetes — Namespaces | [#88](https://github.com/TrainWithShubham/tws-labs/pull/88) | ✅ Merged |
 | Kubernetes — Persistent Storage (PV & PVC) | [#82](https://github.com/TrainWithShubham/tws-labs/pull/82) | ✅ Merged |
 | GitHub Actions — Reusable Workflows | [#70](https://github.com/TrainWithShubham/tws-labs/pull/70) | ✅ Merged |
 | Git — Stash Operations | [#69](https://github.com/TrainWithShubham/tws-labs/pull/69) | ✅ Merged |
@@ -65,14 +67,15 @@ Developing practical, structured labs that help learners build technical skills 
 
 ### Technical Contributions
 
-- **Kubernetes:** Developed hands-on labs covering Services, PersistentVolumes (PV), PersistentVolumeClaims (PVC), and storage configuration.
+- **Kubernetes:** Developed hands-on labs covering Namespaces, Services, PersistentVolumes (PV), PersistentVolumeClaims (PVC), and storage configuration.
 - **CI/CD & GitHub Actions:** Created exercises demonstrating reusable workflows and workflow automation.
 - **Linux & Shell:** Built practical text-processing exercises using `awk` and `sed`.
 - **Git & Version Control:** Developed labs covering stash operations and `.gitignore` best practices.
 - **Validation & Documentation:** Incorporated verification steps, task-based exercises, and structured documentation to support reproducible learning.
 - **Open-Source Collaboration:** Contributed through pull requests, code reviews, and feedback from repository maintainers.
 
-**Impact:** 6 merged pull requests across Kubernetes, CI/CD, Linux, and Git, supporting practical DevOps education through community-driven open-source contributions.
+**Impact:** 7 merged pull requests across Kubernetes, CI/CD, Linux, and Git, supporting practical DevOps education through community-driven open-source contributions.
+
 
 ---
 
